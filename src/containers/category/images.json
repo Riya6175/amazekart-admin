@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "cateory": "electronics",
+        "logo": "../../images/electronics.png"
+      },
+      {
+        "id": 2,
+        "cateory": "Men",
+        "logo": "../../images/electronics.png"
+      }
+]

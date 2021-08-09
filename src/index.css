@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'open sans';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-y:'hidden';
+  height: 100%;
+  
+}
+.full-height{
+  height:100%
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
